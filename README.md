@@ -1,6 +1,6 @@
 <!-- Animated Header Banner - Peach Theme -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,4,6,8&height=250&section=header&text=🍑%20Jinsiya%20🍑&fontSize=70&fontColor=fff&animation=twinkling" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,4,6,8&height=250&section=header&text=%20Jinsiya%20&fontSize=70&fontColor=fff&animation=twinkling" alt="Header Banner" />
 </p>
 
 <!-- Animated Typing Effect - Peach Colors -->
@@ -273,7 +273,7 @@
 
 <!-- Animated Footer - Peach Theme -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,4,6,8&height=150&section=footer&text=🍑%20Thanks%20for%20Visiting!%20🍑&fontSize=40&fontColor=fff&animation=twinkling" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,4,6,8&height=150&section=footer&text=%20Thanks%20for%20Visiting!%20&fontSize=40&fontColor=fff&animation=twinkling" alt="Footer Banner" />
 </p>
 
 <!-- Peach Final Badges -->
