@@ -61,7 +61,7 @@
         <li>🌱 <strong>Currently Leveling Up:</strong> Advanced Java, Data Structures & Advanced AI/ML 📚</li>
         <li>👯 <strong>Looking to Collaborate On:</strong> AI/ML open-source projects & Hackathons! 🤝</li>
         <li>💬 <strong>Ask Me About:</strong> Java, Python, AI, Data Science, OOP, Web Development</li>
-        <li>📫 <strong>Reach Me At:</strong> <a href="mailto:your.email@gmail.com" style="color: #E39A7B; text-decoration: none;">Your Email</a> | <a href="https://www.linkedin.com/in/jinsiya/" style="color: #E39A7B; text-decoration: none;">LinkedIn</a></li>
+        <li>📫 <strong>Reach Me At:</strong> <a href="mailto:jinsiyajinnu@gmail.com" style="color: #E39A7B; text-decoration: none;">Email</a> | <a href="https://www.linkedin.com/in/jinsiya/" style="color: #E39A7B; text-decoration: none;">LinkedIn</a></li>
         <li>⚡ <strong>Fun Fact:</strong> I believe the best way to predict the future is to build it—with AI! 😉</li>
       </ul>
     </td>
