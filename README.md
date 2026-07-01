@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/📚-Student-FF6B6B?style=for-the-badge&logo=book&logoColor=white" alt="Student" />
 </p>
 
-<!-- Animated Wave Line -->
+<!-- Animated Wave Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Wave" />
 </p>
@@ -40,10 +40,10 @@ Hey there! I'm a **B.Tech Artificial Intelligence and Data Science** student on 
 *   🌱 **Currently Leveling Up:** **Advanced Java**, **Data Structures**, and diving deeper into **Advanced AI/ML techniques**. Every day is a school day! 📚
 *   👯 **Looking to Collaborate On:** Exciting **AI/ML open-source projects** and high-energy **Hackathons**! Let's create something incredible together. 🤝
 *   💬 **Ask Me About:** **Java, Python, AI, Data Science, OOP, Web Development (React/Node.js)** – I love geeking out over tech! 
-*   📫 **Reach Me At:** **[Your Email]** | **[LinkedIn](https://www.linkedin.com/in/jinsiya/)** 
+*   📫 **Reach Me At:** **[jinsiyajinnu@gmail.com]** | **[LinkedIn](https://www.linkedin.com/in/jinsiya/)** 
 *   ⚡ **Fun Fact:** I believe the best way to predict the future is to build it—with AI, of course! 😉
 
-<!-- Animated Wave Line -->
+<!-- Animated Wave Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Wave" />
 </p>
@@ -57,92 +57,74 @@ Hey there! I'm a **B.Tech Artificial Intelligence and Data Science** student on 
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" />
 </h2>
 
-<!-- Project 1: SmartEx-AU -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Wave" width="80%" />
-</p>
+<!-- Project Cards with Animations -->
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🧠 SmartEx-AU</h3>
+      <img src="https://media.giphy.com/media/3o7abKhOpu0N9H8aVq/giphy.gif" width="280" />
+      <p><strong>AI-powered Resource Management App for students at Anna University</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/🚀-In_Progress-2E8B57?style=for-the-badge" />
+      </p>
+      <p>
+        <a href="https://github.com/Jinsiya/smartex-au">
+          <img src="https://img.shields.io/badge/🔗-View_Repo-2E8B57?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>📄 APOIES</h3>
+      <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="280" />
+      <p><strong>Smart OCR invoice extraction system that reads and understands invoices like a pro!</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/🤖-AI_Powered-FF6B6B?style=for-the-badge" />
+      </p>
+      <p>
+        <a href="https://github.com/Jinsiya/APOIES">
+          <img src="https://img.shields.io/badge/🔗-View_Repo-2E8B57?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>✨ AI-Summarizer</h3>
+      <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="280" />
+      <p><strong>AI-powered text summarizer with dark/light mode, file upload, and copy/download features.</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/🤖-AI_Powered-FF6B6B?style=for-the-badge" />
+      </p>
+      <p>
+        <a href="https://github.com/Jinsiya/AI-Summarizer-">
+          <img src="https://img.shields.io/badge/🔗-View_Repo-2E8B57?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🎨 Portfolio</h3>
+      <img src="https://media.giphy.com/media/3o7abKhOpu0N9H8aVq/giphy.gif" width="280" />
+      <p><strong>My personal portfolio website. Check out the live demo and see my journey!</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/🌐-Live_Demo-1E90FF?style=for-the-badge" />
+      </p>
+      <p>
+        <a href="https://portfolio-3882zk2le9.vercel.app/">
+          <img src="https://img.shields.io/badge/🔗-Live_Demo-1E90FF?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">🧠 SmartEx-AU</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0N9H8aVq/giphy.gif" width="500" />
-</p>
-<p align="center">
-  <strong>AI-powered Resource Management App for students at Anna University</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/🚀-In_Progress-2E8B57?style=for-the-badge" />
-  <a href="https://github.com/Jinsiya/smartex-au">
-    <img src="https://img.shields.io/badge/🔗-View_Repo-2E8B57?style=for-the-badge" />
-  </a>
-</p>
-
-<!-- Project 2: APOIES -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Wave" width="80%" />
-</p>
-
-<h3 align="center">📄 APOIES</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500" />
-</p>
-<p align="center">
-  <strong>Smart OCR invoice extraction system that reads and understands invoices like a pro!</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤖-AI_Powered-FF6B6B?style=for-the-badge" />
-  <a href="https://github.com/Jinsiya/APOIES">
-    <img src="https://img.shields.io/badge/🔗-View_Repo-2E8B57?style=for-the-badge" />
-  </a>
-</p>
-
-<!-- Project 3: AI-Summarizer -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Wave" width="80%" />
-</p>
-
-<h3 align="center">✨ AI-Summarizer</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="500" />
-</p>
-<p align="center">
-  <strong>AI-powered text summarizer with dark/light mode, file upload, and copy/download features.</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤖-AI_Powered-FF6B6B?style=for-the-badge" />
-  <a href="https://github.com/Jinsiya/AI-Summarizer-">
-    <img src="https://img.shields.io/badge/🔗-View_Repo-2E8B57?style=for-the-badge" />
-  </a>
-</p>
-
-<!-- Project 4: Portfolio -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Wave" width="80%" />
-</p>
-
-<h3 align="center">🎨 Portfolio</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0N9H8aVq/giphy.gif" width="500" />
-</p>
-<p align="center">
-  <strong>My personal portfolio website. Check out the live demo and see my journey!</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <a href="https://portfolio-3882zk2le9.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐-Live_Demo-1E90FF?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Jinsiya/Portfolio">
-    <img src="https://img.shields.io/badge/🔗-View_Repo-2E8B57?style=for-the-badge" />
-  </a>
-</p>
-
-<!-- Animated Wave Line -->
+<!-- Animated Wave Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Wave" />
 </p>
@@ -185,7 +167,7 @@ Hey there! I'm a **B.Tech Artificial Intelligence and Data Science** student on 
   <a href="https://nodejs.org" target="_blank">
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="65" height="65" />
   </a>
-  <!-- Databases - FIXED PostgreSQL -->
+  <!-- Databases -->
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65" />
   </a>
@@ -212,7 +194,7 @@ Hey there! I'm a **B.Tech Artificial Intelligence and Data Science** student on 
   </a>
 </p>
 
-<!-- Animated Coding GIF -->
+<!-- Animated Wave Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Wave" />
 </p>
@@ -242,7 +224,7 @@ Hey there! I'm a **B.Tech Artificial Intelligence and Data Science** student on 
   </a>
 </p>
 
-<!-- Animated Wave Line -->
+<!-- Animated Wave Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Wave" />
 </p>
