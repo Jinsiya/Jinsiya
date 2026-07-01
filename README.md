@@ -239,9 +239,8 @@ Hey there! I'm a **B.Tech Artificial Intelligence and Data Science** student on 
 
 <!-- Animated Snake Eating Contributions -->
 <p align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Jinsiya/Jinsiya/output/snake.svg" alt="Snake Animation" />
 </p>
-
 ---
 
 <!-- Animated Footer -->
