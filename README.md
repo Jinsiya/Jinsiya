@@ -1,6 +1,6 @@
 <!-- Animated Header Banner - Peach Theme -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,4,6,8&height=250&section=header&text=%20Jinsiya%20&fontSize=70&fontColor=fff&animation=twinkling" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,4,6,8&height=250&section=header&text=%20Jinsiya A%20A%20&fontSize=70&fontColor=fff&animation=twinkling" alt="Header Banner" />
 </p>
 
 <!-- Animated Typing Effect - Peach Colors -->
@@ -28,7 +28,7 @@
 <h2 align="center">
   <span style="color: #E39A7B;">✦</span>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" />
-  <span style="color: #E39A7B; font-family: 'Poppins', sans-serif;">About Me</span>
+  <span style="color: #E39A7B; font-family: 'Poppins', sans-serif; font-weight: 700;">About Me</span>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" />
   <span style="color: #E39A7B;">✦</span>
 </h2>
@@ -42,20 +42,20 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" />
 </p>
 
-<p align="center" style="color: #555; font-family: 'Poppins', sans-serif; font-size: 16px; line-height: 1.8;">
-  Hey there! I'm a <strong style="color: #E39A7B;">B.Tech Artificial Intelligence and Data Science</strong> student on a mission to build intelligent applications that make a difference. I thrive on turning complex challenges into elegant, AI-powered solutions. 
+<p align="center" style="color: #555; font-family: 'Open Sans', sans-serif; font-weight: 400; font-size: 16px; line-height: 1.8;">
+  Hey there! I'm a <strong style="color: #E39A7B; font-family: 'Poppins', sans-serif; font-weight: 700;">B.Tech Artificial Intelligence and Data Science</strong> student on a mission to build intelligent applications that make a difference. I thrive on turning complex challenges into elegant, AI-powered solutions. 
 </p>
 
 <table align="center" style="border: 2px solid #FFD3AC; border-radius: 15px; padding: 15px; background: rgba(255, 211, 172, 0.1);">
   <tr>
     <td>
-      <ul style="list-style-type: none; padding: 0; font-family: 'Poppins', sans-serif; font-size: 15px; line-height: 2.2;">
-        <li>🍑 <strong>Currently Building:</strong> <a href="https://github.com/Jinsiya/smartex-au" style="color: #E39A7B; text-decoration: none;">SmartEx-AU</a> - AI-powered Resource Management App for Anna University students</li>
-        <li>🌱 <strong>Currently Leveling Up:</strong> Advanced Java, Data Structures & Advanced AI/ML 📚</li>
-        <li>👯 <strong>Looking to Collaborate On:</strong> AI/ML open-source projects & Hackathons! 🤝</li>
-        <li>💬 <strong>Ask Me About:</strong> Java, Python, AI, Data Science, OOP, Web Development</li>
-        <li>📫 <strong>Reach Me At:</strong> <a href="mailto:jinsiyajinnu@gmail.com" style="color: #E39A7B; text-decoration: none;">Your Email</a> | <a href="https://www.linkedin.com/in/jinsiya/" style="color: #E39A7B; text-decoration: none;">LinkedIn</a></li>
-        <li>⚡ <strong>Fun Fact:</strong> I believe the best way to predict the future is to build it—with AI! 😉</li>
+      <ul style="list-style-type: none; padding: 0; font-family: 'Open Sans', sans-serif; font-weight: 400; font-size: 15px; line-height: 2.2;">
+        <li>🍑 <strong style="font-family: 'Poppins', sans-serif; font-weight: 700; color: #E39A7B;">Currently Building:</strong> <a href="https://github.com/Jinsiya/smartex-au" style="color: #E39A7B; text-decoration: none; font-family: 'Poppins', sans-serif; font-weight: 600;">SmartEx-AU</a> - AI-powered Resource Management App for Anna University students</li>
+        <li>🌱 <strong style="font-family: 'Poppins', sans-serif; font-weight: 700; color: #E39A7B;">Currently Leveling Up:</strong> Advanced Java, Data Structures & Advanced AI/ML 📚</li>
+        <li>👯 <strong style="font-family: 'Poppins', sans-serif; font-weight: 700; color: #E39A7B;">Looking to Collaborate On:</strong> AI/ML open-source projects & Hackathons! 🤝</li>
+        <li>💬 <strong style="font-family: 'Poppins', sans-serif; font-weight: 700; color: #E39A7B;">Ask Me About:</strong> Java, Python, AI, Data Science, OOP, Web Development</li>
+        <li>📫 <strong style="font-family: 'Poppins', sans-serif; font-weight: 700; color: #E39A7B;">Reach Me At:</strong> <a href="mailto:your.email@gmail.com" style="color: #E39A7B; text-decoration: none; font-family: 'Poppins', sans-serif; font-weight: 600;">Your Email</a> | <a href="https://www.linkedin.com/in/jinsiya/" style="color: #E39A7B; text-decoration: none; font-family: 'Poppins', sans-serif; font-weight: 600;">LinkedIn</a></li>
+        <li>⚡ <strong style="font-family: 'Poppins', sans-serif; font-weight: 700; color: #E39A7B;">Fun Fact:</strong> I believe the best way to predict the future is to build it—with AI! 😉</li>
       </ul>
     </td>
   </tr>
@@ -72,19 +72,20 @@
 <h2 align="center">
   <span style="color: #DBB06B;">✦</span>
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" />
-  <span style="color: #DBB06B; font-family: 'Poppins', sans-serif;">Featured Projects 🌟</span>
+  <span style="color: #DBB06B; font-family: 'Poppins', sans-serif; font-weight: 700;">Featured Projects 🌟</span>
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" />
   <span style="color: #DBB06B;">✦</span>
 </h2>
 
-<!-- Peach Project Cards -->
+<!-- Peach Project Cards - ALL with Animations -->
 <p align="center">
   <table>
     <tr>
+      <!-- SmartEx-AU - With Animation -->
       <td width="50%" align="center" style="background: linear-gradient(135deg, #FFD3AC 0%, #FFB5AB 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
-        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">🧠 SmartEx-AU</h3>
+        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 700; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">🧠 SmartEx-AU</h3>
         <img src="https://media.giphy.com/media/3o7abKhOpu0N9H8aVq/giphy.gif" width="250" />
-        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>AI-powered Resource Management App for Anna University students</strong></p>
+        <p style="color: #fff; font-family: 'Open Sans', sans-serif; font-weight: 400; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong style="font-family: 'Poppins', sans-serif; font-weight: 700;">AI-powered Resource Management App for Anna University students</strong></p>
         <p>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/🚀-In_Progress-E39A7B?style=for-the-badge" />
@@ -95,10 +96,12 @@
           </a>
         </p>
       </td>
+      
+      <!-- APOIES - With Animation -->
       <td width="50%" align="center" style="background: linear-gradient(135deg, #FFB5AB 0%, #E39A7B 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
-        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">📄 APOIES</h3>
+        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 700; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">📄 APOIES</h3>
         <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="250" />
-        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>Smart OCR invoice extraction system that reads invoices like a pro!</strong></p>
+        <p style="color: #fff; font-family: 'Open Sans', sans-serif; font-weight: 400; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong style="font-family: 'Poppins', sans-serif; font-weight: 700;">Smart OCR invoice extraction system that reads invoices like a pro!</strong></p>
         <p>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/🤖-AI_Powered-DBB06B?style=for-the-badge" />
@@ -111,15 +114,14 @@
       </td>
     </tr>
     <tr>
+      <!-- AI-Summarizer - With Animation -->
       <td width="50%" align="center" style="background: linear-gradient(135deg, #E39A7B 0%, #DBB06B 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
-        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">✨ AI-Summarizer</h3>
+        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 700; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">✨ AI-Summarizer</h3>
         <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250" />
-        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>AI-powered text summarizer with dark/light mode & file upload</strong></p>
+        <p style="color: #fff; font-family: 'Open Sans', sans-serif; font-weight: 400; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong style="font-family: 'Poppins', sans-serif; font-weight: 700;">AI-powered text summarizer with dark/light mode & file upload</strong></p>
         <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/🤖-AI_Powered-FFD3AC?style=for-the-badge" />
         </p>
         <p>
           <a href="https://github.com/Jinsiya/AI-Summarizer-">
@@ -127,10 +129,12 @@
           </a>
         </p>
       </td>
+      
+      <!-- Portfolio - With Animation -->
       <td width="50%" align="center" style="background: linear-gradient(135deg, #DBB06B 0%, #FFD3AC 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
-        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">🎨 Portfolio</h3>
+        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 700; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">🎨 Portfolio</h3>
         <img src="https://media.giphy.com/media/3o7abKhOpu0N9H8aVq/giphy.gif" width="250" />
-        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>My personal portfolio website - check out the live demo!</strong></p>
+        <p style="color: #fff; font-family: 'Open Sans', sans-serif; font-weight: 400; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong style="font-family: 'Poppins', sans-serif; font-weight: 700;">My personal portfolio website - check out the live demo!</strong></p>
         <p>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/🌐-Live_Demo-FFB5AB?style=for-the-badge" />
@@ -156,7 +160,7 @@
 <h2 align="center">
   <span style="color: #E39A7B;">✦</span>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40" />
-  <span style="color: #E39A7B; font-family: 'Poppins', sans-serif;">My Developer Arsenal ⚡</span>
+  <span style="color: #E39A7B; font-family: 'Poppins', sans-serif; font-weight: 700;">My Developer Arsenal ⚡</span>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40" />
   <span style="color: #E39A7B;">✦</span>
 </h2>
@@ -227,7 +231,7 @@
 <h2 align="center">
   <span style="color: #DBB06B;">✦</span>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" />
-  <span style="color: #DBB06B; font-family: 'Poppins', sans-serif;">Let's Connect! 🤝</span>
+  <span style="color: #DBB06B; font-family: 'Poppins', sans-serif; font-weight: 700;">Let's Connect! 🤝</span>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" />
   <span style="color: #DBB06B;">✦</span>
 </h2>
@@ -259,7 +263,7 @@
 <h2 align="center">
   <span style="color: #FFB5AB;">✦</span>
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="40" />
-  <span style="color: #FFB5AB; font-family: 'Poppins', sans-serif;">Daily Inspiration 💭</span>
+  <span style="color: #FFB5AB; font-family: 'Poppins', sans-serif; font-weight: 700;">Daily Inspiration 💭</span>
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="40" />
   <span style="color: #FFB5AB;">✦</span>
 </h2>
@@ -273,7 +277,7 @@
 
 <!-- Animated Footer - Peach Theme -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,4,6,8&height=150&section=footer&text=%20Thanks%20for%20Visiting!%20&fontSize=40&fontColor=fff&animation=twinkling" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,4,6,8&height=150&section=footer&text=🍑%20Thanks%20for%20Visiting!%20🍑&fontSize=40&fontColor=fff&animation=twinkling" alt="Footer Banner" />
 </p>
 
 <!-- Peach Final Badges -->
