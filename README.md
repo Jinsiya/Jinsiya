@@ -12,7 +12,7 @@
 
 <!-- Animated Typing Effect - Peach Colors -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=800&color=E39A7B&center=true&vCenter=true&width=750&height=70&lines=🌟+Welcome+to+My+AI+Playground!;🤖+Building+the+Future+with+AI;💡+Innovator+%26+Problem+Solver;🚀+Let's+Create+Something+Amazing!;✨+AI+%26+Data+Science+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=800&color=E39A7B&center=true&vCenter=true&width=750&height=70&lines=%F0%9F%8C%9F+Welcome+to+My+AI+Playground!;%F0%9F%A4%96+Building+the+Future+with+AI;%F0%9F%92%A1+Innovator+%26+Problem+Solver;%F0%9F%9A%80+Let's+Create+Something+Amazing!;%E2%9C%A8+AI+%26+Data+Science+Enthusiast" alt="Typing Animation" />
 </p>
 
 <!-- Peach Badges -->
@@ -84,7 +84,7 @@
   <span style="color: #DBB06B;">✦</span>
 </h2>
 
-<!-- Peach Project Cards -->
+<!-- Project 1: SmartEx-AU -->
 <p align="center">
   <table>
     <tr>
@@ -143,6 +143,68 @@
         <p>
           <a href="https://portfolio-3882zk2le9.vercel.app/">
             <img src="https://img.shields.io/badge/🔗-Live_Demo-FFD3AC?style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<!-- New Project Cards Row 3 -->
+<p align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center" style="background: linear-gradient(135deg, #E39A7B 0%, #FFB5AB 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
+        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">🌍 AI Translator</h3>
+        <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="200" />
+        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>Multi-language translation app with voice output & history</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+          <img src="https://img.shields.io/badge/🌍-8_Languages-FFD3AC?style=for-the-badge" />
+        </p>
+        <p>
+          <a href="https://github.com/Jinsiya/AI-Translator">
+            <img src="https://img.shields.io/badge/🔗-View_Repo-FFB5AB?style=for-the-badge" />
+          </a>
+          <a href="https://ai-translator-jinsiya.streamlit.app">
+            <img src="https://img.shields.io/badge/🚀-Live_Demo-FFD3AC?style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+      <td width="33%" align="center" style="background: linear-gradient(135deg, #FFB5AB 0%, #DBB06B 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
+        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">💬 FAQ Chatbot</h3>
+        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" />
+        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>NLP-powered FAQ chatbot with intelligent matching & confidence scores</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=ai&logoColor=white" />
+          <img src="https://img.shields.io/badge/🤖-AI_Powered-FFD3AC?style=for-the-badge" />
+        </p>
+        <p>
+          <a href="https://github.com/Jinsiya/FAQ-Chatbot">
+            <img src="https://img.shields.io/badge/🔗-View_Repo-FFB5AB?style=for-the-badge" />
+          </a>
+          <a href="https://faq-chatbot-jinsiya.streamlit.app">
+            <img src="https://img.shields.io/badge/🚀-Live_Demo-FFD3AC?style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+      <td width="33%" align="center" style="background: linear-gradient(135deg, #DBB06B 0%, #E39A7B 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
+        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">📷 Object Detection & Tracking</h3>
+        <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" />
+        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>Real-time object detection & tracking using YOLO/MobileNet SSD</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+          <img src="https://img.shields.io/badge/🎯-20+_Classes-FFD3AC?style=for-the-badge" />
+        </p>
+        <p>
+          <a href="https://github.com/Jinsiya/Object-Detection-Tracker">
+            <img src="https://img.shields.io/badge/🔗-View_Repo-FFB5AB?style=for-the-badge" />
+          </a>
+          <a href="https://object-detection-jinsiya.streamlit.app">
+            <img src="https://img.shields.io/badge/🚀-Live_Demo-FFD3AC?style=for-the-badge" />
           </a>
         </p>
       </td>
