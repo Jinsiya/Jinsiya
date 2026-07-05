@@ -137,7 +137,7 @@
           <img src="https://img.shields.io/badge/🌐-Live_Demo-FFB5AB?style=for-the-badge" />
         </p>
         <p>
-          <a href="https://portfolio-3882zk2le9.vercel.app/">
+          <a href="https://portfolio-one-ruddy-vurlmv8qc2.vercel.app/">
             <img src="https://img.shields.io/badge/🔗-Live_Demo-FFD3AC?style=for-the-badge" />
           </a>
         </p>
