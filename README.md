@@ -319,9 +319,4 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,4,6,8&height=150&section=footer&text=✨%20Thanks%20for%20Visiting!%20✨&fontSize=40&fontColor=fff&animation=twinkling" alt="Footer Banner" />
 </p>
 
-<!-- Peach Final Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/⭐-Star_My_Repos!-E39A7B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻-Keep_Coding!-FFB5AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌸-Stay_Fresh!-DBB06B?style=for-the-badge" />
-</p>
+
