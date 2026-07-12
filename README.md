@@ -6,7 +6,7 @@
 <!-- Cursive Name Subtitle -->
 <p align="center" style="margin-top: -10px;">
   <span style="font-family: 'Brush Script MT', 'Great Vibes', 'Pacifico', cursive; font-size: 24px; color: #E39A7B; letter-spacing: 2px;">
-    ✦ building the future with AI ✦
+    building the future with AI
   </span>
 </p>
 
@@ -26,24 +26,22 @@
 
 ---
 
-<!-- Animated Section Title -->
+<!-- Section Title -->
 <h2 align="center">
-  <span style="color: #E39A7B;">✦</span>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" />
-  <span style="color: #1F3864; font-family: 'Poppins', sans-serif;">About Me</span>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" />
-  <span style="color: #E39A7B;">✦</span>
+  <span style="color: #E39A7B;">~</span>
+  About Me
+  <span style="color: #E39A7B;">~</span>
 </h2>
 
 <p align="center" style="color: #444; font-family: 'Poppins', sans-serif; font-size: 15px; line-height: 1.8; max-width: 800px;">
-  Final-year <strong style="color: #1F3864;">B.Tech Artificial Intelligence & Data Science</strong> student (CGPA 8.3) who builds AI/ML applications end-to-end — from model to shipped product. Five projects across computer vision, NLP, OCR automation, and generative AI, each taken from raw idea through a working, usable interface.
+  Final-year <strong style="color: #1F3864;">B.Tech Artificial Intelligence & Data Science</strong> student (CGPA 8.3) who builds AI/ML applications end-to-end from model to shipped product. Five projects across computer vision, NLP, OCR automation, and generative AI, each taken from raw idea through a working, usable interface.
 </p>
 
 <table align="center" style="border: 2px solid #FFD3AC; border-radius: 15px; padding: 15px; background: rgba(255, 211, 172, 0.08); max-width: 750px;">
   <tr>
     <td>
       <ul style="list-style-type: none; padding: 0; font-family: 'Poppins', sans-serif; font-size: 14px; line-height: 2.2;">
-        <li>🔭 <strong>Currently building:</strong> <a href="https://github.com/Jinsiya/smartex-au" style="color: #E39A7B; text-decoration: none;">SmartEx-AU</a> — AI-powered resource management app for Anna University students</li>
+        <li>🔭 <strong>Currently building:</strong> <a href="https://github.com/Jinsiya/smartex-au" style="color: #E39A7B; text-decoration: none;">SmartEx-AU</a> - AI-powered resource management app for Anna University students</li>
         <li>🌱 <strong>Currently learning:</strong> Deep learning frameworks (TensorFlow/PyTorch), SQL, advanced DSA</li>
         <li>🤝 <strong>Open to:</strong> AI/ML internships, hackathons, and open-source collaboration</li>
         <li>💬 <strong>Ask me about:</strong> Python, Java, computer vision, NLP, OCR pipelines, full-stack development</li>
@@ -60,13 +58,11 @@
 
 ---
 
-<!-- Animated Section Title -->
+<!-- Section Title -->
 <h2 align="center">
-  <span style="color: #DBB06B;">✦</span>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" />
-  <span style="color: #1F3864; font-family: 'Poppins', sans-serif;">Featured Projects 🌟</span>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" />
-  <span style="color: #DBB06B;">✦</span>
+  <span style="color: #DBB06B;">~</span>
+  Featured Projects
+  <span style="color: #DBB06B;">~</span>
 </h2>
 
 <!-- Peach Project Cards -->
@@ -74,8 +70,8 @@
   <table>
     <tr>
       <td width="50%" align="center" style="background: linear-gradient(135deg, #FFD3AC 0%, #FFB5AB 100%); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.2);">
-        <h3 style="color: #1F3864; font-family: 'Poppins', sans-serif;">📄 APOIES</h3>
-        <p style="color: #444; font-family: 'Poppins', sans-serif; font-size: 13px;"><strong>OCR-based invoice extraction</strong> — converts scanned invoices into structured JSON using GPT</p>
+        <h3 style="color: #1F3864; font-family: 'Poppins', sans-serif;">APOIES</h3>
+        <p style="color: #444; font-family: 'Poppins', sans-serif; font-size: 13px;"><strong>OCR-based invoice extraction</strong> - converts scanned invoices into structured JSON using GPT</p>
         <p>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/OCR-FF6F00?style=flat-square" />
@@ -83,13 +79,13 @@
         </p>
         <p>
           <a href="https://github.com/Jinsiya/APOIES">
-            <img src="https://img.shields.io/badge/🔗-View_Repo-1F3864?style=flat-square" />
+            <img src="https://img.shields.io/badge/View_Repo-1F3864?style=flat-square" />
           </a>
         </p>
       </td>
       <td width="50%" align="center" style="background: linear-gradient(135deg, #FFB5AB 0%, #E39A7B 100%); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.2);">
-        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 1px 3px rgba(0,0,0,0.2);">👁️ VisionAI Tracker</h3>
-        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 13px; text-shadow: 0 1px 2px rgba(0,0,0,0.2);"><strong>Real-time object detection & tracking</strong> — 20+ classes with persistent unique IDs</p>
+        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 1px 3px rgba(0,0,0,0.2);">VisionAI Tracker</h3>
+        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 13px; text-shadow: 0 1px 2px rgba(0,0,0,0.2);"><strong>Real-time object detection and tracking</strong> - 20+ classes with persistent unique IDs</p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
@@ -97,15 +93,15 @@
         </p>
         <p>
           <a href="https://github.com/Jinsiya/Object-Detection-Tracker">
-            <img src="https://img.shields.io/badge/🔗-View_Repo-FFD3AC?style=flat-square" />
+            <img src="https://img.shields.io/badge/View_Repo-FFD3AC?style=flat-square" />
           </a>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" style="background: linear-gradient(135deg, #E39A7B 0%, #DBB06B 100%); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.2);">
-        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 1px 3px rgba(0,0,0,0.2);">🌐 AI Language Translator</h3>
-        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 13px; text-shadow: 0 1px 2px rgba(0,0,0,0.2);"><strong>Multi-language translation</strong> with voice output and history — 8 languages supported</p>
+        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 1px 3px rgba(0,0,0,0.2);">AI Language Translator</h3>
+        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 13px; text-shadow: 0 1px 2px rgba(0,0,0,0.2);"><strong>Multi-language translation</strong> with voice output and history - 8 languages supported</p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
@@ -113,12 +109,12 @@
         </p>
         <p>
           <a href="https://github.com/Jinsiya/AI-Translator">
-            <img src="https://img.shields.io/badge/🔗-View_Repo-FFD3AC?style=flat-square" />
+            <img src="https://img.shields.io/badge/View_Repo-FFD3AC?style=flat-square" />
           </a>
         </p>
       </td>
       <td width="50%" align="center" style="background: linear-gradient(135deg, #DBB06B 0%, #FFD3AC 100%); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.2);">
-        <h3 style="color: #1F3864; font-family: 'Poppins', sans-serif;">💬 FAQ Chatbot</h3>
+        <h3 style="color: #1F3864; font-family: 'Poppins', sans-serif;">FAQ Chatbot</h3>
         <p style="color: #444; font-family: 'Poppins', sans-serif; font-size: 13px;"><strong>NLP-powered FAQ matching</strong> using TF-IDF and cosine similarity with confidence scoring</p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -127,14 +123,14 @@
         </p>
         <p>
           <a href="https://github.com/Jinsiya/FAQ-Chatbot">
-            <img src="https://img.shields.io/badge/🔗-View_Repo-1F3864?style=flat-square" />
+            <img src="https://img.shields.io/badge/View_Repo-1F3864?style=flat-square" />
           </a>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" style="background: linear-gradient(135deg, #FFD3AC 0%, #FFB5AB 100%); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.2);">
-        <h3 style="color: #1F3864; font-family: 'Poppins', sans-serif;">✨ AI Summarizer</h3>
+        <h3 style="color: #1F3864; font-family: 'Poppins', sans-serif;">AI Summarizer</h3>
         <p style="color: #444; font-family: 'Poppins', sans-serif; font-size: 13px;"><strong>Text summarization tool</strong> with file upload, dark/light mode</p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -142,20 +138,20 @@
         </p>
         <p>
           <a href="https://github.com/Jinsiya/AI-Summarizer-">
-            <img src="https://img.shields.io/badge/🔗-View_Repo-1F3864?style=flat-square" />
+            <img src="https://img.shields.io/badge/View_Repo-1F3864?style=flat-square" />
           </a>
         </p>
       </td>
       <td width="50%" align="center" style="background: linear-gradient(135deg, #FFB5AB 0%, #E39A7B 100%); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.2);">
-        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 1px 3px rgba(0,0,0,0.2);">🎨 Portfolio</h3>
-        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 13px; text-shadow: 0 1px 2px rgba(0,0,0,0.2);"><strong>Personal portfolio site</strong> — live demo</p>
+        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 1px 3px rgba(0,0,0,0.2);">Portfolio</h3>
+        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 13px; text-shadow: 0 1px 2px rgba(0,0,0,0.2);"><strong>Personal portfolio site</strong> - live demo</p>
         <p>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
         </p>
         <p>
           <a href="https://portfolio-one-ruddy-vurlmv8qc2.vercel.app/">
-            <img src="https://img.shields.io/badge/🔗-Live_Demo-FFD3AC?style=flat-square" />
+            <img src="https://img.shields.io/badge/Live_Demo-FFD3AC?style=flat-square" />
           </a>
         </p>
       </td>
@@ -170,13 +166,11 @@
 
 ---
 
-<!-- Animated Section Title -->
+<!-- Section Title -->
 <h2 align="center">
-  <span style="color: #E39A7B;">✦</span>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" />
-  <span style="color: #1F3864; font-family: 'Poppins', sans-serif;">Tech Stack ⚡</span>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" />
-  <span style="color: #E39A7B;">✦</span>
+  <span style="color: #E39A7B;">~</span>
+  Tech Stack
+  <span style="color: #E39A7B;">~</span>
 </h2>
 
 <p align="center" style="font-family: 'Poppins', sans-serif; font-size: 14px; color: #1F3864; font-weight: 600;">Languages</p>
@@ -196,7 +190,7 @@
   <img src="https://img.shields.io/badge/NLTK-3776AB?style=flat-square" />
 </p>
 
-<p align="center" style="font-family: 'Poppins', sans-serif; font-size: 14px; color: #1F3864; font-weight: 600;">Web & Frameworks</p>
+<p align="center" style="font-family: 'Poppins', sans-serif; font-size: 14px; color: #1F3864; font-weight: 600;">Web and Frameworks</p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -226,13 +220,11 @@
 
 ---
 
-<!-- Animated Section Title -->
+<!-- Section Title -->
 <h2 align="center">
-  <span style="color: #DBB06B;">✦</span>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" />
-  <span style="color: #1F3864; font-family: 'Poppins', sans-serif;">GitHub Stats 📊</span>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" />
-  <span style="color: #DBB06B;">✦</span>
+  <span style="color: #DBB06B;">~</span>
+  GitHub Stats
+  <span style="color: #DBB06B;">~</span>
 </h2>
 
 <p align="center">
@@ -247,13 +239,11 @@
 
 ---
 
-<!-- Animated Section Title -->
+<!-- Section Title -->
 <h2 align="center">
-  <span style="color: #FFB5AB;">✦</span>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35" />
-  <span style="color: #1F3864; font-family: 'Poppins', sans-serif;">Daily Inspiration 💭</span>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35" />
-  <span style="color: #FFB5AB;">✦</span>
+  <span style="color: #FFB5AB;">~</span>
+  Daily Inspiration
+  <span style="color: #FFB5AB;">~</span>
 </h2>
 
 <p align="center">
@@ -269,7 +259,7 @@
 
 <!-- Final Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/⭐-Star_My_Repos!-1F3864?style=flat-square" />
-  <img src="https://img.shields.io/badge/💻-Keep_Coding!-E39A7B?style=flat-square" />
-  <img src="https://img.shields.io/badge/🌸-Stay_Fresh!-DBB06B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Star_My_Repos!-1F3864?style=flat-square" />
+  <img src="https://img.shields.io/badge/Keep_Coding!-E39A7B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stay_Fresh!-DBB06B?style=flat-square" />
 </p>
