@@ -83,23 +83,6 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" />
   <span style="color: #DBB06B;">✦</span>
 </h2>
-
-<!-- Project 1: SmartEx-AU -->
-<p align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center" style="background: linear-gradient(135deg, #FFD3AC 0%, #FFB5AB 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
-        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">🧠 SmartEx-AU</h3>
-        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>AI-powered Resource Management App for Anna University students</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/🚀-In_Progress-E39A7B?style=for-the-badge" />
-        </p>
-        <p>
-          <a href="https://github.com/Jinsiya/smartex-au">
-            <img src="https://img.shields.io/badge/🔗-View_Repo-FFB5AB?style=for-the-badge" />
-          </a>
-        </p>
       </td>
       <td width="50%" align="center" style="background: linear-gradient(135deg, #FFB5AB 0%, #E39A7B 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
         <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">📄 APOIES</h3>
