@@ -83,8 +83,12 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" />
   <span style="color: #DBB06B;">✦</span>
 </h2>
-      </td>
-      <td width="50%" align="center" style="background: linear-gradient(135deg, #FFB5AB 0%, #E39A7B 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
+
+<!-- Row 1: APOIES & VisionAI Tracker -->
+<p align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center" style="background: linear-gradient(135deg, #FFD3AC 0%, #FFB5AB 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
         <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">📄 APOIES</h3>
         <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>Smart OCR invoice extraction system that reads invoices like a pro!</strong></p>
         <p>
@@ -97,9 +101,64 @@
           </a>
         </p>
       </td>
+      <td width="50%" align="center" style="background: linear-gradient(135deg, #FFB5AB 0%, #E39A7B 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
+        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">📷 VisionAI Tracker</h3>
+        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>Real-time object detection & tracking with persistent unique IDs</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+        </p>
+        <p>
+          <a href="https://github.com/Jinsiya/Object-Detection-Tracker">
+            <img src="https://img.shields.io/badge/🔗-View_Repo-FFD3AC?style=for-the-badge" />
+          </a>
+        </p>
+      </td>
     </tr>
+  </table>
+</p>
+
+<!-- Row 2: AI Translator & FAQ Chatbot -->
+<p align="center">
+  <table>
     <tr>
       <td width="50%" align="center" style="background: linear-gradient(135deg, #E39A7B 0%, #DBB06B 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
+        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">🌍 AI Translator</h3>
+        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>Multi-language translation with voice output & history</strong></p>
+        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 13px; opacity: 0.9;">Supports French, Spanish, German, Arabic, Hindi, Tamil, Telugu, Malayalam</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+        </p>
+        <p>
+          <a href="https://github.com/Jinsiya/AI-Translator">
+            <img src="https://img.shields.io/badge/🔗-View_Repo-FFD3AC?style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+      <td width="50%" align="center" style="background: linear-gradient(135deg, #DBB06B 0%, #FFD3AC 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
+        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">💬 FAQ Chatbot</h3>
+        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>NLP-powered FAQ chatbot with intelligent matching</strong></p>
+        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 13px; opacity: 0.9;">TF-IDF vectorization • Cosine similarity • Confidence scoring</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=ai&logoColor=white" />
+        </p>
+        <p>
+          <a href="https://github.com/Jinsiya/FAQ-Chatbot">
+            <img src="https://img.shields.io/badge/🔗-View_Repo-FFD3AC?style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<!-- Row 3: AI Summarizer & Portfolio -->
+<p align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center" style="background: linear-gradient(135deg, #FFD3AC 0%, #FFB5AB 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
         <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">✨ AI-Summarizer</h3>
         <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>AI-powered text summarizer with dark/light mode, file upload, copy & download</strong></p>
         <p>
@@ -112,65 +171,16 @@
           </a>
         </p>
       </td>
-      <td width="50%" align="center" style="background: linear-gradient(135deg, #DBB06B 0%, #FFD3AC 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
+      <td width="50%" align="center" style="background: linear-gradient(135deg, #FFB5AB 0%, #E39A7B 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
         <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">🎨 Portfolio</h3>
         <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>My personal portfolio website - check out the live demo!</strong></p>
         <p>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/🌐-Live_Demo-FFD3AC?style=for-the-badge" />
         </p>
         <p>
           <a href="https://portfolio-one-ruddy-vurlmv8qc2.vercel.app/">
             <img src="https://img.shields.io/badge/🔗-Live_Demo-FFD3AC?style=for-the-badge" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<!-- New Project Cards Row 3 - NO ANIMATIONS -->
-<p align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center" style="background: linear-gradient(135deg, #E39A7B 0%, #FFB5AB 100%); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
-        <h3 style="color: #fff; font-family: 'Poppins', sans-serif;">🌍 AI Translator</h3>
-        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 14px; line-height: 1.6;"><strong>Multi-language translation app with voice output & history</strong></p>
-        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 13px; opacity: 0.9;">Supports French, Spanish, German, Arabic, Hindi, Tamil, Telugu, Malayalam</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-        </p>
-        <p>
-          <a href="https://github.com/Jinsiya/AI-Translator">
-            <img src="https://img.shields.io/badge/🔗-View_Repo-FFB5AB?style=for-the-badge" />
-          </a>
-        </p>
-      </td>
-      <td width="33%" align="center" style="background: linear-gradient(135deg, #FFB5AB 0%, #DBB06B 100%); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
-        <h3 style="color: #fff; font-family: 'Poppins', sans-serif;">💬 FAQ Chatbot</h3>
-        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 14px; line-height: 1.6;"><strong>NLP-powered FAQ chatbot with intelligent matching</strong></p>
-        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 13px; opacity: 0.9;">TF-IDF vectorization • Cosine similarity • Confidence scoring</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=ai&logoColor=white" />
-        </p>
-        <p>
-          <a href="https://github.com/Jinsiya/FAQ-Chatbot">
-            <img src="https://img.shields.io/badge/🔗-View_Repo-FFB5AB?style=for-the-badge" />
-          </a>
-        </p>
-      </td>
-      <td width="33%" align="center" style="background: linear-gradient(135deg, #DBB06B 0%, #E39A7B 100%); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
-        <h3 style="color: #fff; font-family: 'Poppins', sans-serif;">📷 Object Detection & Tracking</h3>
-        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 14px; line-height: 1.6;"><strong>Real-time object detection & tracking system</strong></p>
-        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 13px; opacity: 0.9;">YOLO/MobileNet SSD • SORT tracking • 20+ object classes</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-        </p>
-        <p>
-          <a href="https://github.com/Jinsiya/Object-Detection-Tracker">
-            <img src="https://img.shields.io/badge/🔗-View_Repo-FFB5AB?style=for-the-badge" />
           </a>
         </p>
       </td>
