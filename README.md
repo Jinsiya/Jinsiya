@@ -176,10 +176,9 @@
         <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>My personal portfolio website - check out the live demo!</strong></p>
         <p>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/🌐-Live_Demo-FFD3AC?style=for-the-badge" />
         </p>
         <p>
-          <a href="https://portfolio-one-ruddy-vurlmv8qc2.vercel.app/">
+          <a href="https://portfoliolc8m113q05.vercel.app/">
             <img src="https://img.shields.io/badge/🔗-Live_Demo-FFD3AC?style=for-the-badge" />
           </a>
         </p>
