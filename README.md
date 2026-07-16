@@ -110,7 +110,6 @@
         </p>
         <p>
           <a href="https://github.com/Jinsiya/Object-Detection-Tracker">
-            <img src="https://img.shields.io/badge/🔗-View_Repo-FFD3AC?style=for-the-badge" />
           </a>
         </p>
       </td>
