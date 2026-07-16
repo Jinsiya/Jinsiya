@@ -111,8 +111,7 @@
         <p>
           <a href="https://github.com/Jinsiya/CodeAlpha_Object--detection-and-tracking">
         <img src="https://img.shields.io/badge/🔗-View_Repo-FFD3AC?style=for-the-badge" />
-
-          </a>
+ </a>
         </p>
       </td>
     </tr>
