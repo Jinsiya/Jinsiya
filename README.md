@@ -131,7 +131,7 @@
           <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
         </p>
         <p>
-          <a href="https://github.com/Jinsiya/AI-Translator">
+          <a href="https://github.com/Jinsiya/AI-Summarizer-">
             <img src="https://img.shields.io/badge/🔗-View_Repo-FFD3AC?style=for-the-badge" />
           </a>
         </p>
@@ -145,7 +145,7 @@
           <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=ai&logoColor=white" />
         </p>
         <p>
-          <a href="https://github.com/Jinsiya/FAQ-Chatbot">
+          <a href="https://github.com/Jinsiya/CodeAlpha_ChatbotsforFAQs">
             <img src="https://img.shields.io/badge/🔗-View_Repo-FFD3AC?style=for-the-badge" />
           </a>
         </p>
