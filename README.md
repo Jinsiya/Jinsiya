@@ -17,10 +17,10 @@
 <!-- Peach Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jinsiya&label=👀%20Profile%20Views&color=E39A7B&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/🚀-AI_Enthusiast-E39A7B?style=for-the-badge&logo=ai&logoColor=white" alt="AI Enthusiast" />
-  <img src="https://img.shields.io/badge/💡-Problem_Solver-FFB5AB?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Problem Solver" />
-  <img src="https://img.shields.io/badge/📚-Student-DBB06B?style=for-the-badge&logo=book&logoColor=white" alt="Student" />
-  <img src="https://img.shields.io/badge/💻-Developer-FFD3AC?style=for-the-badge&logo=code&logoColor=white" alt="Developer" />
+  <img src="https://img.shields.io/badge/AI_Enthusiast-E39A7B?style=for-the-badge&logo=ai&logoColor=white" alt="AI Enthusiast" />
+  <img src="https://img.shields.io/badge/Problem_Solver-FFB5AB?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Problem Solver" />
+  <img src="https://img.shields.io/badge/Student-DBB06B?style=for-the-badge&logo=book&logoColor=white" alt="Student" />
+  <img src="https://img.shields.io/badge/Developer-FFD3AC?style=for-the-badge&logo=code&logoColor=white" alt="Developer" />
 </p>
 
 <!-- Custom Peach Wave Separator -->
