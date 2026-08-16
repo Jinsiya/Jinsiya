@@ -6,7 +6,6 @@
 <!-- Cursive Name Subtitle -->
 <p align="center" style="margin-top: -20px;">
   <span style="font-family: 'Brush Script MT', 'Great Vibes', 'Pacifico', cursive; font-size: 28px; color: #E39A7B; letter-spacing: 2px;">
-    ✦ building the future with AI ✦
   </span>
 </p>
 
