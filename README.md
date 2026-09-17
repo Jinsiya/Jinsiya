@@ -15,13 +15,19 @@
 </p>
 
 <!-- Peach Badges -->
+<!-- Peach Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jinsiya&label=👀%20Profile%20Views&color=E39A7B&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/AI_Enthusiast-E39A7B?style=for-the-badge&logo=ai&logoColor=white" alt="AI Enthusiast" />
-  <img src="https://img.shields.io/badge/Problem_Solver-FFB5AB?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Problem Solver" />
-  <img src="https://img.shields.io/badge/Student-DBB06B?style=for-the-badge&logo=book&logoColor=white" alt="Student" />
-  <img src="https://img.shields.io/badge/Developer-FFD3AC?style=for-the-badge&logo=code&logoColor=white" alt="Developer" />
+  <a href="https://www.linkedin.com/in/jinsiya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfoliolc8m113q05.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 <!-- Custom Peach Wave Separator -->
 <p align="center">
@@ -56,11 +62,10 @@
   <tr>
     <td>
       <ul style="list-style-type: none; padding: 0; font-family: 'Poppins', sans-serif; font-size: 15px; line-height: 2.2;">
-        <li>🔭 <strong>Currently Building:</strong> <a href="https://github.com/Jinsiya/smartex-au" style="color: #E39A7B; text-decoration: none;">SmartEx-AU</a> - AI-powered Resource Management App for Anna University students</li>
+       <li>🚀 <strong>Latest Project:</strong> <a href="https://smartexau.onrender.com/" style="color: #E39A7B; text-decoration: none;">SmartEx-AU</a> - AI-powered academic hub for Anna University students <em>(Live!)</em></li>
         <li>🌱 <strong>Currently Leveling Up:</strong> Advanced Java, Data Structures & Advanced AI/ML 📚</li>
         <li>👯 <strong>Looking to Collaborate On:</strong> AI/ML open-source projects & Hackathons! 🤝</li>
         <li>💬 <strong>Ask Me About:</strong> Java, Python, AI, Data Science, OOP, Web Development</li>
-        <li>📫 <strong>Reach Me At:</strong> <a href="mailto:jinsiyajinnu@gmail.com" style="color: #E39A7B; text-decoration: none;">Email</a> | <a href="https://www.linkedin.com/in/jinsiya/" style="color: #E39A7B; text-decoration: none;">LinkedIn</a></li>
         <li>⚡ <strong>Fun Fact:</strong> I believe the best way to predict the future is to build it—with AI! 😉</li>
       </ul>
     </td>
@@ -82,6 +87,41 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" />
   <span style="color: #DBB06B;">✦</span>
 </h2>
+
+<!-- Row 0: SmartEx-AU (Featured) -->
+<p align="center">
+  <table>
+    <tr>
+      <td width="100%" align="center" style="background: linear-gradient(135deg, #FFD3AC 0%, #E39A7B 100%); border-radius: 15px; padding: 30px; box-shadow: 0 6px 20px rgba(227, 154, 123, 0.4);">
+        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 26px; text-shadow: 0 2px 4px rgba(0,0,0,0.25); margin-bottom: 10px;">🎓 SmartEx-AU</h3>
+        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 16px; text-shadow: 0 1px 3px rgba(0,0,0,0.2); margin-bottom: 8px;">
+          <strong>Your Complete Academic Hub for Anna University Engineering Excellence</strong>
+        </p>
+        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 14px; opacity: 0.95; line-height: 1.7; max-width: 700px; margin: 0 auto 12px auto;">
+          Access syllabus units, verified notes, previous year question papers, and AI-powered study assistance — all in one place. Built for Anna University students and faculty.
+        </p>
+        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-size: 13px; opacity: 0.9; margin-bottom: 12px;">
+          📚 7+ Departments • 50+ Subjects • 100+ Notes & Papers • 🤖 24/7 AI Assistance
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/🤖-AI_Powered-E39A7B?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/🌐-Live_App-FFD3AC?style=for-the-badge" />
+        </p>
+        <p>
+          <a href="https://smartexau.onrender.com/" target="_blank">
+            <img src="https://img.shields.io/badge/🚀-Live_Demo-FFB5AB?style=for-the-badge" />
+          </a>
+          <a href="https://github.com/Jinsiya/SmartexAU" target="_blank">
+            <img src="https://img.shields.io/badge/🔗-View_Repo-FFD3AC?style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<!-- Row 1: APOIES & VisionAI Tracker -->
 
 <!-- Row 1: APOIES & VisionAI Tracker -->
 <p align="center">
@@ -152,12 +192,11 @@
     </tr>
   </table>
 </p>
-
-<!-- Row 3: AI Summarizer & Portfolio -->
+<!-- Row 3: AI-Summarizer (full width) -->
 <p align="center">
   <table>
     <tr>
-      <td width="50%" align="center" style="background: linear-gradient(135deg, #FFD3AC 0%, #FFB5AB 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
+      <td width="100%" align="center" style="background: linear-gradient(135deg, #FFD3AC 0%, #FFB5AB 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
         <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">✨ AI-Summarizer</h3>
         <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>AI-powered text summarizer with dark/light mode, file upload, copy & download</strong></p>
         <p>
@@ -167,18 +206,6 @@
         <p>
           <a href="https://github.com/Jinsiya/AI-Summarizer-">
             <img src="https://img.shields.io/badge/🔗-View_Repo-FFB5AB?style=for-the-badge" />
-          </a>
-        </p>
-      </td>
-      <td width="50%" align="center" style="background: linear-gradient(135deg, #FFB5AB 0%, #E39A7B 100%); border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(227, 154, 123, 0.3);">
-        <h3 style="color: #fff; font-family: 'Poppins', sans-serif; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">🎨 Portfolio</h3>
-        <p style="color: #fff; font-family: 'Poppins', sans-serif; font-weight: 500; text-shadow: 0 1px 3px rgba(0,0,0,0.2);"><strong>My personal portfolio website - check out the live demo!</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-        </p>
-        <p>
-          <a href="https://portfoliolc8m113q05.vercel.app/">
-            <img src="https://img.shields.io/badge/🔗-Live_Demo-FFD3AC?style=for-the-badge" />
           </a>
         </p>
       </td>
@@ -272,22 +299,6 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" />
   <span style="color: #DBB06B;">✦</span>
 </h2>
-
-<!-- Peach Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/jinsiya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfoliolc8m113q05.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Jinsiya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 <!-- Peach Wave Separator -->
 <p align="center">
